@@ -1,0 +1,13 @@
+sex_inference/
+differential_expression.R
+extra_code_for_number_of_genes.R
+gene_names_human.txt
+run_process_rna_smk.sh
+tar_zip.sh
+variance_partition.R
+process_rna.smk
+ipsc_config.json
+combine_count.py
+DGE_analyses/
+call_variants.sh
+plot_multiqc.R
